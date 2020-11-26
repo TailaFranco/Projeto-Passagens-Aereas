@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\bin\Debug\netcoreapp3.1\projeto passagens aerea.exe
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\bin\Debug\netcoreapp3.1\projeto passagens aerea.deps.json
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\bin\Debug\netcoreapp3.1\projeto passagens aerea.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\bin\Debug\netcoreapp3.1\projeto passagens aerea.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\bin\Debug\netcoreapp3.1\projeto passagens aerea.dll
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\bin\Debug\netcoreapp3.1\projeto passagens aerea.pdb
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\obj\Debug\netcoreapp3.1\projeto passagens aerea.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\obj\Debug\netcoreapp3.1\projeto passagens aerea.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\obj\Debug\netcoreapp3.1\projeto passagens aerea.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\obj\Debug\netcoreapp3.1\projeto passagens aerea.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\obj\Debug\netcoreapp3.1\projeto passagens aerea.dll
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\obj\Debug\netcoreapp3.1\projeto passagens aerea.pdb
+C:\Users\Taila\Desktop\Dev\projeto passagens aerea\obj\Debug\netcoreapp3.1\projeto passagens aerea.genruntimeconfig.cache

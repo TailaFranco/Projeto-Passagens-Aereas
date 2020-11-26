@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "projeto passagens aerea/1.0.0": {
+        "runtime": {
+          "projeto passagens aerea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto passagens aerea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
